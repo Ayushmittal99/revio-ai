@@ -1,3 +1,4 @@
+![Project Screenshot](image.png)
 # Revio AI: Customer Review Intelligence Copilot (prototype)
 
 _Screenshots: add real screenshots here after you run the app (none captured yet)._
