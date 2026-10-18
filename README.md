@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/81e6b15d-e9df-4ae5-b645-34473741941e" />
 ![Project Screenshot](image.png)
 # Revio AI: Customer Review Intelligence Copilot (prototype)
 
