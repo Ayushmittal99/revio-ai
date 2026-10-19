@@ -1,4 +1,5 @@
 <img width="1366" height="768" alt="Screenshot (934)" src="https://github.com/user-attachments/assets/1404983d-335f-47b8-a08e-ea95c37ebb24" />
+
 ## Revio AI: Customer Review Intelligence Copilot
 
 > **Independent proposed prototype.** Inspired by a publicly described product category (an "AI review assistant"). It is **not** an official Cynbit Technologies feature, uses no Cynbit systems, code or data, and makes no claims about Cynbit's internals. Built as a personal project for an AI/ML Engineer Intern assessment.
